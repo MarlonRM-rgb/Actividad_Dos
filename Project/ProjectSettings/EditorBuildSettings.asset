@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/07-Mecanica5-CambiarEscena-A.unity
+    guid: 46a0f6290ef9c4ddb93dd2c626364172
+  - enabled: 1
+    path: Assets/Scenes/07-Mecanica5-CambiarEscena-B.unity
+    guid: f7f2da6dfc023444f8a3fdb7b27f9df5
+  - enabled: 1
+    path: Assets/Scenes/Portada.unity
+    guid: bbbbbd6d0dcf140c8bc9b4ddf90f86cd
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-01-Bosque-A.unity
+    guid: d7933109d2a7f49f59e6f4e5dadea1bf
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-03-Bosque-C.unity
+    guid: 16d192bd7a2a04025a8fc305456c52da
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-05-Castillo1-A.unity
+    guid: 3218a856a1cd74cdbb30a6b81721b633
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-06-Castillo1-B.unity
+    guid: 95995ea9c54ae4874a3c5561b8257bc2
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-12-Castillo2-A.unity
+    guid: f1ca83ce6c59b40ad95b331053e620b9
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-13-Castillo2-B.unity
+    guid: 48a9245587fb242208fe33578a33a6b0
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-14-Final.unity
+    guid: 4d937d684c5184c8f83297a1f4addde6
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-02-Bosque-B.unity
+    guid: aa61849a0c00a4d22a873a30929ef849
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-04-Calabozo.unity
+    guid: f370994db6bcd466db037a9138bc8c66
+  m_configObjects: {}
